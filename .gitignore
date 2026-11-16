@@ -1,0 +1,6 @@
+﻿# Solo se sube lo de la carpeta portal; el servidor local no hace falta en el hosting
+servidor.ps1
+
+# archivos del sistema
+Thumbs.db
+.DS_Store
